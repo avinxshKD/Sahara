@@ -1,0 +1,14 @@
+
+Received message at 2025-12-18 18:56:54.031938919 +0530 IST from NDRF: Hello this is NDRF team
+
+Received message at 2025-12-18 18:57:27.746355759 +0530 IST from Avi: Hello this is Avinash, please help me
+
+Received message at 2025-12-18 18:58:50.083108447 +0530 IST from NDRF: Yes we got your message,sending our team,Hang tight!
+
+Received message at 2025-12-18 18:58:50.083133275 +0530 IST from NDRF: Yes we got your message,sending our team,Hang tight!
+
+Received message at 2025-12-18 19:30:01.764608958 +0530 IST from avi: Hi this is avi
+
+Received message at 2025-12-18 19:30:11.035132467 +0530 IST from NDRF: Hello this is NDRF rescue team
+
+Received message at 2025-12-18 19:21:07.5670245 +0530 IST from Avi: Hello, this is Avi. We need medical assistance near rajkot.
