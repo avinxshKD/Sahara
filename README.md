@@ -2,6 +2,8 @@
 
 Sahara is an offline-first, peer-to-peer communication system for situations where internet access is unavailable. Devices communicate over the same Wi-Fi, hotspot, or local network.
 
+Each node discovers nearby peers, joins a shared room, and exchanges messages through either the terminal or the React interface.
+
 ## Why?
 
 Internet and mobile networks often fail during natural disasters. Sahara provides a simple way for civilians and rescue teams on the same local network to exchange messages without relying on a remote server.
